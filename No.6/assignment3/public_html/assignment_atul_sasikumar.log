@@ -1,0 +1,23 @@
+
+ 
+ 1) Hostname is ? ---> 
+webonise-desktop
+ 
+ 2) Type and version of the operating system the machine is running ? ----> 
+Linux webonise-desktop 3.5.0-23-generic #35~precise1-Ubuntu SMP Fri Jan 25 17:13:26 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+ 
+ 3) Full path to home directory ? ---> 
+/home/webonise/Desktop
+ 
+ 4) Which other users are logged into the machine you are using ? ----> 
+webonise tty7 2013-12-17 10:15 webonise pts/0 2013-12-17 15:24 (:0.0)
+ 
+ 5) What groups you belong to ? ----> 
+webonise adm cdrom sudo dip plugdev lpadmin sambashare
+ 
+ 6) What files (excluding directories) are located in your home directory and all its subdirectories? ----> 
+total 428 -rw-rw-r-- 1 webonise webonise 182441 Dec 13 18:31 Traditional-vs-Agile-1024x696.jpg -rw-rw-r-- 1 webonise webonise 783 Dec 11 19:04 Student.java -rw-rw-r-- 1 webonise webonise 108 Dec 17 17:19 second.sh~ -rw-rw-r-- 1 webonise webonise 112 Dec 17 17:19 second.sh -rw-rw-r-- 1 webonise webonise 1051 Dec 12 13:17 r6.cpp~ -rw-rw-r-- 1 webonise webonise 1051 Dec 12 14:29 r6.cpp -rw-rw-r-- 1 webonise webonise 1283 Dec 12 11:32 r5.cpp -rw-rw-r-- 1 webonise webonise 443 Dec 12 11:13 r4.cpp~ -rw-rw-r-- 1 webonise webonise 442 Dec 12 11:14 r4.cpp -rw-rw-r-- 1 webonise webonise 0 Dec 12 10:59 r3.cpp~ -rw-rw-r-- 1 webonise webonise 409 Dec 12 10:59 r3.cpp -rw-rw-r-- 1 webonise webonise 695 Dec 12 10:54 r2.cpp~ -rw-rw-r-- 1 webonise webonise 713 Dec 12 17:29 r2.cpp -rw-rw-r-- 1 webonise webonise 785 Dec 12 11:01 r1.cpp~ -rw-rw-r-- 1 webonise webonise 784 Dec 12 11:01 r1.cpp -rw-rw-r-- 1 webonise webonise 640 Dec 11 19:04 myClass.php drwxrwxr-x 2 webonise webonise 4096 Dec 17 16:48 mFName -rw-rw-r-- 1 webonise webonise 58 Dec 11 17:54 me.cpp~ -rw-rw-r-- 1 webonise webonise 58 Dec 11 17:54 me.cpp -rw-rw-r-- 1 webonise webonise 142 Dec 17 14:52 Linux_assignment 3_atul_sasikumar.sh -rw-rw-r-- 1 webonise webonise 52 Dec 17 14:50 Linux_assignment 3_atul_sasikumar~ -rwxrwxr-x 1 webonise webonise 8378 Dec 11 17:54 k -rw-rw-r-- 1 webonise webonise 1407 Dec 17 17:12 first.sh~ -rw-rw-r-- 1 webonise webonise 1411 Dec 17 17:35 first.sh -rw-rw-r-- 1 webonise webonise 2919 Dec 11 19:04 College.java -rw-rw-r-- 1 webonise webonise 33387 Dec 11 19:04 class.smtp.php -rw-rw-r-- 1 webonise webonise 300 Dec 11 19:03 binding.rb -rw-rw-r-- 1 webonise webonise 4639 Dec 16 20:07 Atul_Sasikumar_DB_Test_Assessment_System.sql~ -rw-rw-r-- 1 webonise webonise 4721 Dec 17 13:18 Atul_Sasikumar_DB_Test_Assessment_System.sql -rw-rw-r-- 1 webonise webonise 86 Dec 16 16:08 Atul_Sasikumar_DB_Test_Assessment_System~ -rw-rw-r-- 1 webonise webonise 2084 Dec 12 18:50 at2.cpp~ -rw-rw-r-- 1 webonise webonise 2084 Dec 12 19:08 at2.cpp -rw-rw-r-- 1 webonise webonise 1003 Dec 11 18:54 at2~ -rw-rw-r-- 1 webonise webonise 1003 Dec 11 19:42 at2 -rw-rw-r-- 1 webonise webonise 3763 Dec 11 18:06 at1.cpp~ -rw-rw-r-- 1 webonise webonise 3755 Dec 11 18:56 at1.cpp -rw-rw-r-- 1 webonise webonise 84 Dec 11 17:22 at -rw-rw-r-- 1 webonise webonise 12882 Dec 17 16:28 assignment_atul_sasikumar.log~ -rw-rw-r-- 1 webonise webonise 19918 Dec 17 17:36 assignment_atul_sasikumar.log drwxrwxr-x 2 webonise webonise 4096 Dec 17 17:34 assignment3 drwxrwxr-x 2 webonise webonise 4096 Dec 11 19:06 asgmt -rwxrwxr-x 1 webonise webonise 14772 Dec 12 18:50 a.out
+ 
+ 7)Date and Time ----> 
+Tue Dec 17 17:36:10 IST 2013
+ 

@@ -1,0 +1,26 @@
+n=1
+for file in x*;
+do
+echo " Original file ----> ">> No4.log
+echo $file>> No4.log
+echo " ">>No4.log
+
+n1=renamed$file
+newname=$n1
+
+echo " Renamed file ----> ">> No4.log
+echo $newname>> No4.log
+echo " ">>No4.log
+
+n=$(($n+1))
+mv $file $newname
+
+done
+
+echo " List of all changed files ----> ">> No4.log
+echo $(ls)>> No4.log
+echo " ">>No4.log
+
+echo " Date and Time ----> ">> No4.log
+echo $(date)
+echo " ">>No4.log
